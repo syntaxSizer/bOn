@@ -1,5 +1,5 @@
 # Big O notation
-===================
+
 
 What is the big O notation and why its called big O notation anyway ?
 
@@ -15,8 +15,8 @@ function is also called its order
 
 
 
-==========                    ============
-## notations                   name
+
+## Notations                   Name
 
 ### O(1)                       constant
 ### O(log(n))                  logarithmic
@@ -26,18 +26,19 @@ function is also called its order
 
 
 
-# Undrestanding Big O
-is a way to masure  how well a computer algorithm  scales as the amount of data involved incresses
+## Underestanding Big O
+is a way to measure  how well a computer algorithm  scales as the amount of data involved increases
+and it has nothing to do with speed.
 
 
 
-# Order of one O(1)
+## Order of one O(1)
 
-O(1) excute in a constant  amount of time regardless of the amount of data
+O(1) Execute in a constant  amount of time regardless of the amount of data
 
 Example :
-it i'll excute the same amount of time  10 array items or 10,000 array items
+it i'll execute the same amount of time  10 array items or 10,000 array items
 
 
-# order of n  O(n)
+## Order of n  O(n)
 linear search
