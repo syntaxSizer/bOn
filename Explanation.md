@@ -42,14 +42,14 @@ it i'll execute the same amount of time  10 array items or 10,000 array items
 in other words, the time accessing the collection is independant from the number of the collection items (constant opartion time)
 
 this code will add new item to the array it won't matter if the array had 10 items or 10^10 items
-
+```java
 int theArray[];
 int itemInArray=0;
 public void addItemToArray(int newItem){
 theArray[itemsInArray++]=newitem;
 
 }
-
+```
 
 
 ## Order of n  O(N)
