@@ -16,14 +16,14 @@ function is also called its order
 
 
 
-## Notations                   Name
-
-#### O(1)                       constant
-#### O(log(n))                  logarithmic
-#### O((log(n))^c)              polylogarithmic
-#### O(2^n                      explontial
-#### O(n)                       linear
-#### O(n^2)                     quadratic
+ | Notations       |  Name            |
+ | --------------- | :---------------:|
+ |O(1)             |  constant        |
+ |O(log(n))        |  logarithmic     |
+ |O((log(n))^c)    |  polylogarithmic |
+ |O(2^n            |  explontial      |
+ |O(n)             |  linear          |
+ |O(n^2)           |  quadratic       |
 
 
 
@@ -58,6 +58,8 @@ it mean the amount of time to complete will grow up indierct proportion to the a
 Example linear search:
 in order to find a match for what we are searching for we will have to look in every and each item .
 it will matter if we are searching in total of 10 items or 10,000 items .
+
+this is a Linear search Example which discribe O(N)
 
 ```java
 public void linearSearchForValue(int value){
