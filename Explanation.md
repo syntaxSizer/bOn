@@ -40,5 +40,10 @@ Example :
 it i'll execute the same amount of time  10 array items or 10,000 array items
 
 
-## Order of n  O(n)
-linear search
+## Order of n  O(N)
+it mean the amount of time to complete will grow up indierct proportion the amont of data .
+
+Example linear search:
+in order to find a match for what we are searching for we will have to look in every and each item .
+it will matter if we are searching int total of 10 items or 10,000 items .
+
