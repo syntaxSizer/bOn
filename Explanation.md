@@ -16,14 +16,14 @@ function is also called its order
 
 
 
- | Notations       |  Name            |
- | --------------- | :---------------:|
- |O(1)             |  constant        |
- |O(log(n))        |  logarithmic     |
- |O((log(n))^c)    |  polylogarithmic |
- |O(2^n            |  explontial      |
- |O(n)             |  linear          |
- |O(n^2)           |  quadratic       |
+ |  Notations       |  Name            |
+ |  --------------- | :---------------:|
+ |  O(1)            |  constant        |
+ |  O(log(n))       |  logarithmic     |
+ |  O((log(n))^c)   |  polylogarithmic |
+ |  O(2^n)          |  exponential     |
+ |  O(n)            |  linear          |
+ |  O(n^2)          |  quadratic       |
 
 
 
@@ -74,7 +74,6 @@ public void linearSearchForValue(int value){
 
 		}
 	}
-
 	```
 
 
