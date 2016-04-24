@@ -17,7 +17,7 @@ function is also called its order
 
 
  |  Notations       |  Name            |
- |  --------------- | :---------------:|
+ |: ---------------:| :---------------:|
  |  O(1)            |  constant        |
  |  O(log(n))       |  logarithmic     |
  |  O((log(n))^c)   |  polylogarithmic |
